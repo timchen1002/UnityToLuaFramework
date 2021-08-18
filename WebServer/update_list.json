@@ -1,0 +1,27 @@
+[
+    {
+        "appVersion": "1.0.0.0",
+        "appUrl": "",
+        "updateList":
+        [
+            {
+                "resVersion": "1.0.0.3",
+                "md5": "CA141DAE762F6A37E5E1C8DEF60C7D43",
+                "size": 905968,
+                "url": "http://localhost:18800/res_1.0.0.3.zip"
+            },
+            {
+                "resVersion": "1.0.0.2",
+                "md5": "1C884130CB2692910D0AC929169E7819",
+                "size": 1793797,
+                "url": "http://localhost:18800/res_1.0.0.2.zip"
+            },
+            {
+                "resVersion": "1.0.0.1",
+                "md5": "345813BEAF105082CDD410D92C3C7D2B",
+                "size": 897986,
+                "url": "http://localhost:18800/res_1.0.0.1.zip"
+            }
+        ]
+    }
+]
